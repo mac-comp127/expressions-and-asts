@@ -62,16 +62,18 @@ public class ExpressionExperiments {
         // System.out.println("salad=" + salad + "  pretzel=" + pretzel);
 
         // System.out.print("Example 17: ");
+        // salad = 0;
+        // pretzel = 0;
         // pretzel = salad++;
         // System.out.println("salad=" + salad + "  pretzel=" + pretzel);
 
         // System.out.print("Example 18: ");
-        // pretzel = 7;
+        // pretzel = 0;
         // pretzel = pretzel++;
         // System.out.println("pretzel=" + pretzel);
 
         // System.out.print("Example 19: ");
-        // pretzel = 7;
+        // pretzel = 0;
         // pretzel = ++pretzel;
         // System.out.println("pretzel=" + pretzel);
 
