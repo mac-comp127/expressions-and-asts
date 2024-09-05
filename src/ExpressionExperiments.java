@@ -1,6 +1,6 @@
 public class ExpressionExperiments {
     public static void main(String[] args) {
-        System.out.println("–––––– Operator precedence ––––––");
+        System.out.println("────── Operator precedence ──────");
 
         System.out.print("Example 1: ");
         System.out.println(3 * 7 + 2);
@@ -14,7 +14,7 @@ public class ExpressionExperiments {
         // System.out.print("Example 4: ");
         // System.out.println(8 * (2 + 12) / 4);
 
-        System.out.println("–––––– Associativity ––––––");
+        System.out.println("────── Associativity ──────");
 
         // System.out.print("Example 5: ");
         // System.out.println(1000 - 100 - 10 - 1);
@@ -31,7 +31,7 @@ public class ExpressionExperiments {
         // System.out.print("Example 9: ");
         // TODO: replace this line with your solution
 
-        System.out.println("–––––– Types ––––––");
+        System.out.println("───── Types ──────");
 
         // System.out.print("Example 10: ");
         // System.out.println(1 + 5 / 3);
@@ -53,7 +53,7 @@ public class ExpressionExperiments {
         // double muffin = 5;
         // System.out.println(1 + muffin / 3);
 
-        System.out.println("–––––– Pre- and Post-increment ––––––");
+        System.out.println("────── Pre- and Post-increment ──────");
 
         // int salad = 0, pretzel = 0;
 
